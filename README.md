@@ -1,1 +1,2 @@
 Resize
+resizes pictures.
